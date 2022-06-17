@@ -3,7 +3,7 @@ cdn by jsdelivr
 
 ### Usage
 
-https://cdn.jsdelivr.net/gh/user/repo@version/file. 
+https://cdn.jsdelivr.net/gh/user/repo@version/file  
 
 e.g.
 ```
